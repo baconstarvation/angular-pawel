@@ -9,3 +9,5 @@ angular.module('location', [], function ($locationProvider) {
 //THINGS TO EXPLORE => the goal is to prepare examples for the chapter
 //- will IE9 / other manage to switch back and forth between modes?
 //- what is the hash prefix anyway?
+
+// finished reading 330 ch6 routing loc paras. time to code
