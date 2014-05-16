@@ -38,3 +38,5 @@ angular.module('routing_basics', [])
   .controller('EditUserCtrl', function($scope, $routeParams, Users){
     $scope.user = Users.get({id: $routeParams.id});
   })
+
+  // machine guns blues
