@@ -27,6 +27,7 @@ angular.module('security.retryQueue', [])
         retryFn = reason;
         reason = undefined;
       }
+    }
 
       // The deferred object that will be resolved or rejected by calling retry or cancel
       var deferred = $q.defer();
